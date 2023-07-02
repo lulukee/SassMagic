@@ -1,0 +1,17 @@
+{
+  "name": "sassmagic",
+  "version": "1.0.0",
+  "description": "瘦身后的SassMagic",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulukee/SassMagic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulukee/SassMagic/issues"
+  },
+  "homepage": "https://github.com/lulukee/SassMagic#readme"
+}
